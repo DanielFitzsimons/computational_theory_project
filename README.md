@@ -1,1 +1,3 @@
-# computational_theory_project
+# Computational_Theory_Project
+
+##Introduction
