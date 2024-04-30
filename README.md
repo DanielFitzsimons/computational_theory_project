@@ -46,6 +46,7 @@ This repository hosts the documentation and Python code for a solver of the "Cou
 ## Usage
 
 Clone this repository to review the notebook, run tests, and explore the Countdown game solver.
+Must have Installed: 
 Python 3.x
 Standard Python libraries: itertools
 
